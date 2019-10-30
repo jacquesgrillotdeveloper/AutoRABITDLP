@@ -1,11 +1,19 @@
 {
-  "packageDirectories": [
-    {
-      "path": "ARXDLP",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "ARXDLP",
+            "default": true,
+            "package": "Autorabit External Id App",
+            "versionName": "Winter 20 Unique ID",
+            "versionNumber": "1.2.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "45.0",
+    "packageAliases": {
+        "Autorabit External Id App": "0Ho3j0000004CAfCAM",
+        "Autorabit External Id App@1.0.0-1": "04t3j0000014buFAAQ",
+        "Autorabit External Id App@1.1.0-1": "04t3j0000014c17AAA"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "45.0"
 }
